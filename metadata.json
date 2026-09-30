@@ -1,0 +1,6 @@
+{
+  "name": "Alliance - Rencontres Sérieuses & Mariage",
+  "description": "Plateforme bilingue (FR/EN) haut de gamme dédiée aux rencontres entre adultes (18+), relations sérieuses, compatibilité de projet de vie et préparation du mariage.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
